@@ -77,7 +77,7 @@ python MDP.py input.npz PolicyIteration --keep-values --graph
 
 ## Output
 
-Visuals are saved in the `Output_jpgs/` folder:
+Visuals are saved in the `Output_jpgs` folder which will be created once the code is run:
 
 - Value iteration animations
 - Final policy diagram
